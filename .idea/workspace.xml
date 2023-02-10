@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="156fed72-3e0c-40ce-a8ef-b1fa3971f27b" name="Changes" comment="add some codewars tasks">
-      <change afterPath="$PROJECT_DIR$/TZ/find_athlets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TZ/find_top_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TZ/get_inductees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TZ/make_report_about_top3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TZ2/Задание 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TZ2/Задание 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TZ2/Задание 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TZ2/Задание 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TZ2/Задание 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/mikhailouski_n/PycharmProjects/Codewars/TZ",
+    "last_opened_file_path": "/Users/mikhailouski_n/PycharmProjects/Codewars",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -52,8 +52,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.make_report_about_top3">
-    <configuration name="Dict_practice(temp_in_may)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Задание 5">
+    <configuration name="Задание 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TZ2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dict_practice(temp_in_may).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TZ2/Задание 4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum of Digits. Digital Root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Задание 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TZ2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum of Digits. Digital Root.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TZ2/Задание 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.make_report_about_top3" />
+        <item itemvalue="Python.Задание 5" />
+        <item itemvalue="Python.Задание 4" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.make_report_about_top3" />
         <item itemvalue="Python.enumerate_function" />
-        <item itemvalue="Python.Dict_practice(temp_in_may)" />
-        <item itemvalue="Python.Sum of Digits. Digital Root" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673354688843</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add some codewars tasks">
+      <created>1674458332314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674458332314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
